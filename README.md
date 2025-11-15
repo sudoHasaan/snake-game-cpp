@@ -103,12 +103,4 @@ sudo pacman -S base-devel freeglut mesa
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
 
-- Original template by Sibt ul Hussain
-- Built with OpenGL and GLUT libraries
-- Inspired by the classic Nokia Snake game
-
----
-
-⭐ Star this repository if you enjoyed the game!
