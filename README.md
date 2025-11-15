@@ -95,22 +95,6 @@ sudo pacman -S base-devel freeglut mesa
 - **Power-up Food**: Purple circles
 - **Background**: Dark purple/slate gray grid
 
-## 🐛 Known Issues
-
-- Game requires X11 display server (may not work on headless systems)
-- No pause functionality
-- No restart option (must relaunch to play again)
-
-## 🔮 Future Enhancements
-
-- [ ] Pause/Resume functionality
-- [ ] Restart option on game over
-- [ ] Difficulty levels (speed adjustment)
-- [ ] High score persistence
-- [ ] Sound effects
-- [ ] Obstacles/hurdles
-- [ ] Multiple game modes
-
 ## 👨‍💻 Author
 
 **sudoHasaan**
