@@ -184,7 +184,7 @@ void Display()
                 }
                 else
                 {
-                    DrawSquare(x, y, 10, colors[DARK_SLATE_GRAY]);
+                    DrawSquare(x, y, 10, colors[BLACK]);
                 }
             }
         }
