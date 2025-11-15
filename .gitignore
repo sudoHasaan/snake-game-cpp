@@ -1,0 +1,22 @@
+# Compiled binaries
+game-release
+*.o
+*.out
+*.exe
+
+# Precompiled headers
+*.gch
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
